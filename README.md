@@ -28,3 +28,5 @@ node mobiref.js
 ## NOTE
 - Put Your proxy at proxy.txt using format http://username:password@host:port
 - You Can Use Your Own Internet to Run the Bot
+
+Join our Channel for more information: https://t.me/airdropseeker_official
